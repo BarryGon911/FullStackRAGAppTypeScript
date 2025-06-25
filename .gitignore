@@ -4,8 +4,10 @@
 # Dependency directories
 .env
 /node_modules
+node_modules/
 package-lock.json
 /documentation
+documentation/
 
 # Logs
 logs
@@ -28,7 +30,6 @@ temp/
 # Windows specific files
 Thumbs.db
 ehthumbs.db
-
 
 # Linux specific files
 *~
