@@ -4,10 +4,7 @@
   "version": "1.0.0",
   "author": "BarryGon911",
   "license": "MIT",
-  "workspaces": [
-    "api",
-    "web"
-  ],
+  "workspaces": ["api", "web"],
   "scripts": {
     "start:api": "yarn turbo run start --filter=api",
     "start:web": "yarn turbo run start --filter=web",
