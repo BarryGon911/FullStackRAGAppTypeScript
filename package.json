@@ -2,6 +2,7 @@
   "name": "fullstack-rag-app-template",
   "private": true,
   "version": "1.0.0",
+  "description": "Preform RAG for question answering over Arxiv papers",
   "author": "BarryGon911",
   "license": "MIT",
   "workspaces": ["api", "web"],
